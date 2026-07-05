@@ -30,3 +30,20 @@ A temporary Gradio demo is available at:
 6. Paste an email into the text box and click **Submit** to classify it as **Legitimate** or **Phishing**.
 ---
 ## Features
+- AI-powered phishing email detection using BERT
+- Confidence score
+- Risk level assessment
+- Suspicious keyword detection
+- Accuracy, Precision, Recall, and F1-score
+- Confusion Matrix
+- ROC Curve
+- Interactive Gradio interface
+---
+## Technologies Used
+- Python
+- BERT (Transformers)
+- PyTorch
+- Scikit-learn
+- Gradio
+- Pandas
+- Matplotlib
